@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import { FiUser, FiLock } from 'react-icons/fi';
 
 import Input from '../../components/Input';
@@ -34,7 +35,9 @@ const Login: React.FC = () => {
             placeholder="Senha"
           />
 
-          <Button type="submit">Logar</Button>
+          <Link to="/home">
+            <Button type="submit">Logar</Button>
+          </Link>
         </form>
 
         <LinkContainer>

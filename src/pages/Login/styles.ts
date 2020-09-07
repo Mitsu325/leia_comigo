@@ -26,7 +26,7 @@ export const Content = styled.div`
   place-content: center;
 
   form {
-    margin: 60px 0 20px;
+    margin: 120px 0 20px;
     width: 400px;
     text-align: center;
   }
@@ -46,6 +46,7 @@ export const LinkContainer = styled.div`
 
   a {
     color: #8dc63f;
+    font-size: 14px;
     font-weight: 700;
     transition: color 0.2s;
 
