@@ -56,6 +56,15 @@ Aplicado fontes e formas arredondadas e a cor predominante sendo Laranja 🍊.
 
 <br>
 
+### :heavy_check_mark: :computer: Resultado Web
+
+<h1 align="center">
+    <img alt="Web" src=".github/web_leia.mp4" width="900px">
+</h1>
+
+
+<br>
+
 <a id="como-usar"></a>
 ## 🔥 Como usar
 
