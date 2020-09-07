@@ -23,7 +23,7 @@ const Nav: React.FC = () => {
         </Link>
       </NavItem>
       <NavItem>
-        <Link to="/">
+        <Link to="/reading_plan">
           <img src={calendarIcon} alt="plano de leitura" />
           <p>PLANO DE LEITURA</p>
         </Link>
