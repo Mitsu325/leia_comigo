@@ -58,11 +58,9 @@ Aplicado fontes e formas arredondadas e a cor predominante sendo Laranja 🍊.
 
 ### :heavy_check_mark: :computer: Resultado Web
 
-<video width="900px">
-  <source src=".github/web_leia.mp4" type="video/mp4">
-</video>
-
-
+<h1 align="center">
+    <img alt="Web" src="video/web.gif" width="900px">
+</h1>
 
 <br>
 
