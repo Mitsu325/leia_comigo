@@ -32,7 +32,7 @@ A aplicação busca maior proximidade e interação entre pais e filhos por meio
 - Criação de hábito semanal de leitura.
 <br>
 
-### 🧐 Funcionalidades
+### 😎 Funcionalidades
 
 - Biblioteca, onde o familiar possui a liberdade de escolher o livro que deseja gravar para a criança.
 - Agenda semanal, espaço que armazena 5 livros para serem lidos durante a semana.
