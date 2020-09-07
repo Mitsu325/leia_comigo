@@ -3,6 +3,7 @@ import styled from 'styled-components';
 export const NavContainer = styled.nav`
   width: 100%;
   height: 90px;
+  background: #fff;
   box-shadow: 2px 0px 4px #999999;
   padding: 32px 40px;
 
