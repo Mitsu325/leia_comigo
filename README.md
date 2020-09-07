@@ -20,6 +20,7 @@
 - [Como Usar](#como-usar)
 - [Como Contribuir](#como-contribuir)
 
+<br>
 <a id="sobre"></a>
 ## 🧐 Sobre
 
@@ -29,23 +30,26 @@ A aplicação busca maior proximidade e interação entre pais e filhos por meio
 - Exploração da imaginação.
 - Criação de hábito semanal de leitura.
 <br>
-As funcionalidades contempladas são 
+As funcionalidades contempladas são:
 - Biblioteca, onde o familiar possui a liberdade de escolher o livro que deseja gravar para a criança.
 - Agenda semanal, espaço que armazena 5 livros para serem lidos durante a semana.
-- Gravador de áudio por páginas. (Em desenvolvimento)
-- Sincronização entre a leitura e reprodução de áudio por página. (Em desenvolvimento)
+- Gravador de áudio por páginas. (🚧 Em desenvolvimento)
+- Sincronização entre a leitura e reprodução de áudio por página. (🚧 Em desenvolvimento)
 
+<br><br>
 <a id="tecnologias-utilizadas"></a>
 ## 🚀 Tecnologia Utilizada
 
 O projeto foi desenvolvido com a stack **[ReactJS](https://pt-br.reactjs.org/)**
 
+<br><br>
 <a id="design"></a>
 ## 🎨 Design
 
 Aplicado fontes e formas arredondadas e a cor predominante sendo Laranja 🍊.
 - O layout-web está disponível no **[Figma](https://www.figma.com/proto/f5vYdugAUZcJDx53EYrYn4/Time10?node-id=43%3A2&viewport=255%2C264%2C0.09656611829996109&scaling=scale-down)**
 
+<br><br>
 <a id="como-usar"></a>
 ## 🔥 Como usar
 
@@ -82,6 +86,7 @@ Aplicado fontes e formas arredondadas e a cor predominante sendo Laranja 🍊.
   $ yarn start
 ```
 
+<br><br>
 <a id="como-contribuir"></a>
 ## 💪🏻 Como contribuir
 
