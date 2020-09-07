@@ -17,7 +17,7 @@ const Nav: React.FC = () => {
         </Link>
       </NavItem>
       <NavItem>
-        <Link to="/">
+        <Link to="/library">
           <img src={searchIcon} alt="biblioteca" />
           <p>BIBLIOTECA</p>
         </Link>
