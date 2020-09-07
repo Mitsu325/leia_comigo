@@ -4,13 +4,12 @@
    <b>Desafio Árvore - Leia Comigo</b>  
    <br><br>
  
-   <p align="center">
-   <img src="https://img.shields.io/badge/tech-front--end-brightgreen" />
-
-    <a href="https://pt-br.reactjs.org/">
-      <img src="https://img.shields.io/badge/framework-react-blue" />
-    </a>
-   </p>
+ <p align="center">
+  <img src="https://img.shields.io/badge/tech-front--end-brightgreen" />
+  <a href="https://pt-br.reactjs.org/">
+    <img src="https://img.shields.io/badge/framework-react-blue" />
+  </a>
+ </p>
 </h3>
 
 ## 🔖Índice
@@ -29,6 +28,7 @@ A aplicação busca maior proximidade e interação entre pais e filhos por meio
 - Auxílio melhor compreensão do ambiente.
 - Exploração da imaginação.
 - Criação de hábito semanal de leitura.
+<br>
 As funcionalidades contempladas são 
 - Biblioteca, onde o familiar possui a liberdade de escolher o livro que deseja gravar para a criança.
 - Agenda semanal, espaço que armazena 5 livros para serem lidos durante a semana.
@@ -38,7 +38,7 @@ As funcionalidades contempladas são
 <a id="tecnologias-utilizadas"></a>
 ## 🚀 Tecnologia Utilizada
 
-O projeto foi desenvolvido com a stack *[*ReactJS](https://pt-br.reactjs.org/)**
+O projeto foi desenvolvido com a stack **[ReactJS](https://pt-br.reactjs.org/)**
 
 <a id="design"></a>
 ## 🎨 Design
